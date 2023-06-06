@@ -30,8 +30,8 @@ To implement socket programming date and time display from client to server usin
 ### PROGRAM :
 #### Client:
 ```
-Developed By: K Ajay
-Reg No: 212221040008
+Developed By: S SANTHOSH
+Reg No: 212221040147
 ```
 ```
 import socket
@@ -50,8 +50,8 @@ if ack:
 ```
 #### Server:
 ```
-Developed By: K Ajay
-Reg No: 212221040008
+Developed By: S SANTHOSH
+Reg No: 212221040147
 ```
 ```
 import socket
